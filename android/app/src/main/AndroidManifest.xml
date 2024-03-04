@@ -46,5 +46,9 @@
         <meta-data
             android:name="flutterEmbedding"
             android:value="2" />
+        
+        <meta-data
+            android:name="com.naver.maps.map.CLIENT_ID"
+            android:value="b37g6fxls3" /> <!--네이버 지도 인증키-->
     </application>
 </manifest>
